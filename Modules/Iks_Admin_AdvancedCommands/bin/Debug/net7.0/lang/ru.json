@@ -1,0 +1,15 @@
+{
+    "MENUOPTION_Rename" : "Переименовать",
+
+    "TARGET_AdminInfo" : "============== \n Ник: {red}{name} \n Иммунитет: {red}{immunity} \n SteamID: {red}{sid} \n Флаги: {red}{flags} \n Группа: {red}{group} \n ==============",
+
+    "MENUTITLE_Rename": "Переименовать игрока",
+    "MENUTITLE_Admins": "Список админов",
+
+    "NOTIFY_WriteName": "Напишите новый никнейм в чат! Пример: {red}!Новый никнейм",
+
+    "SERVER_Rename": "Игрок {red}{name}{white} был перейменован! \n Новое имя: {red}{new}",
+
+    "Never": "Никогда"
+
+}

@@ -1,0 +1,16 @@
+{
+    "MENUOPTION_Rename" : "Rename",
+
+    "TARGET_AdminInfo" : "============== \n Name: {red}{name} \n Immunity: {red}{immunity} \n SteamID: {red}{sid} \n Flags: {red}{flags} \n Group: {red}{group} \n ==============",
+
+    "MENUTITLE_Rename": "Rename the player",
+    "MENUTITLE_Admins": "Admin list",
+
+    "NOTIFY_WriteName": "Write new nickname in chat! Example: {red}!new user nickname",
+
+    "SERVER_Rename": "Player {red}{name}{white} has been renamed! \n New name: {red}{new}",
+
+    "Never": "Never"
+
+
+}

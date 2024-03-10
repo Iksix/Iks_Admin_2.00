@@ -1,0 +1,15 @@
+D:\__plgns\Rewrite\Iks_Admin\Modules\Iks_Admin_AdvancedCommands\bin\Debug\net7.0\Iks_Admin_AdvancedCommands.deps.json
+D:\__plgns\Rewrite\Iks_Admin\Modules\Iks_Admin_AdvancedCommands\bin\Debug\net7.0\Iks_Admin_AdvancedCommands.dll
+D:\__plgns\Rewrite\Iks_Admin\Modules\Iks_Admin_AdvancedCommands\bin\Debug\net7.0\Iks_Admin_AdvancedCommands.pdb
+D:\__plgns\Rewrite\Iks_Admin\Modules\Iks_Admin_AdvancedCommands\bin\Debug\net7.0\Iks_Admin_Api.dll
+D:\__plgns\Rewrite\Iks_Admin\Modules\Iks_Admin_AdvancedCommands\bin\Debug\net7.0\Iks_Admin_Api.pdb
+D:\__plgns\Rewrite\Iks_Admin\Modules\Iks_Admin_AdvancedCommands\obj\Debug\net7.0\Iks_Admin_AdvancedCommands.csproj.AssemblyReference.cache
+D:\__plgns\Rewrite\Iks_Admin\Modules\Iks_Admin_AdvancedCommands\obj\Debug\net7.0\Iks_Admin_AdvancedCommands.GeneratedMSBuildEditorConfig.editorconfig
+D:\__plgns\Rewrite\Iks_Admin\Modules\Iks_Admin_AdvancedCommands\obj\Debug\net7.0\Iks_Admin_AdvancedCommands.AssemblyInfoInputs.cache
+D:\__plgns\Rewrite\Iks_Admin\Modules\Iks_Admin_AdvancedCommands\obj\Debug\net7.0\Iks_Admin_AdvancedCommands.AssemblyInfo.cs
+D:\__plgns\Rewrite\Iks_Admin\Modules\Iks_Admin_AdvancedCommands\obj\Debug\net7.0\Iks_Admin_AdvancedCommands.csproj.CoreCompileInputs.cache
+D:\__plgns\Rewrite\Iks_Admin\Modules\Iks_Admin_AdvancedCommands\obj\Debug\net7.0\Iks_Admin_AdvancedCommands.csproj.CopyComplete
+D:\__plgns\Rewrite\Iks_Admin\Modules\Iks_Admin_AdvancedCommands\obj\Debug\net7.0\Iks_Admin_AdvancedCommands.dll
+D:\__plgns\Rewrite\Iks_Admin\Modules\Iks_Admin_AdvancedCommands\obj\Debug\net7.0\refint\Iks_Admin_AdvancedCommands.dll
+D:\__plgns\Rewrite\Iks_Admin\Modules\Iks_Admin_AdvancedCommands\obj\Debug\net7.0\Iks_Admin_AdvancedCommands.pdb
+D:\__plgns\Rewrite\Iks_Admin\Modules\Iks_Admin_AdvancedCommands\obj\Debug\net7.0\ref\Iks_Admin_AdvancedCommands.dll

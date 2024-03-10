@@ -1,0 +1,36 @@
+{
+    "DISCORD_Title" : "Имя сервера",
+
+    "DISCORD_Action" : "**Действие** \nИсполнитель: {ByName}\nКоманда: {cmd}\nСтатус: {status}", // Отлавивают другие действия через CommandUsed
+    "DISCORD_ActionWithTarget" : "**Действие** \nИсполнитель: {ByName}\nКоманда: {cmd}\nСтатус: {status}\nЦель: {targetName}\nЦель sid: {targetSid}",
+
+    "DISCORD_OnAdminAdd" : "**Добавлен новый админ!** \nИсполнитель: {ByName} \nНик игрока: {name} \nSTEAMID: {sid}\nФлаги: {flags}\nИммунитет: {immunity}\nЗаканчивается: {end} \nИмя группы: {group_name}\nАйди группы: {group_id}\n Айди сервера: {server_id}",
+    "DISCORD_OnAdminDel" : "**Админ удалён!** \nИсполнитель: {ByName} \nНик игрока: {name} \nSTEAMID: {sid}\nФлаги: {flags}\nИммунитет: {immunity}\nЗаканчивается: {end} \nИмя группы: {group_name}\nАйди группы: {group_id}\n Айди сервера: {server_id}",
+    "DISCORD_OnAddBan" : "**Бан добавлен** \nИсполнитель: {ByName}\nНик игрока: {name}\nSTEAMID: {sid}\nIP: {ip}\nПричина: {reason}\nСрок: {duration}\nЗаканчивается: {end}\nТип бана: {banType}",
+    "DISCORD_OnAddMute" : "**Мут добавлен** \nИсполнитель: {ByName}\nНик игрока: {name}\nSTEAMID: {sid}\nПричина: {reason}\nСрок: {duration}\nЗаканчивается: {end}",
+    "DISCORD_OnAddGag" : "**Гаг добавлен** \nИсполнитель: {ByName}\nНик игрока: {name}\nSTEAMID: {sid}\nПричина: {reason}\nСрок: {duration}\nЗаканчивается: {end}",
+    "DISCORD_OnUnBan" : "**Бан снят** \nИсполнитель: {ByName}\nНаказан админом: {admin}\nНик игрока: {name}\nSTEAMID: {sid}\nIP: {ip}\nПричина: {reason}\nСрок: {duration}\nЗаканчивается: {end}\nТип бана: {banType}",
+    "DISCORD_OnUnMute" : "**Мут снят** \nИсполнитель: {ByName}\nНаказан админом: {admin}\nНик игрока: {name}\nSTEAMID: {sid}\nПричина: {reason}\nСрок: {duration}\nЗаканчивается: {end}",
+    "DISCORD_OnUnGag" : "**Гаг снят** \nИсполнитель: {ByName}\nНаказан админом: {admin}\nНик игрока: {name}\nSTEAMID: {sid}\nПричина: {reason}\nСрок: {duration}\nЗаканчивается: {end}",
+    "DISCORD_OnSlay" : "**Игрок убит** \nИсполнитель: {ByName}\nНик игрока: {name}\nSTEAMID: {sid}",
+    "DISCORD_OnKick" : "**Игрок кикнут** \nИсполнитель: {ByName}\nНик игрока: {name}\nSTEAMID: {sid}\nПричина: {reason}",
+    "DISCORD_SwitchTeam" : "**Игрок перемещён**\nИсполнитель: {ByName}\nНик игрока: {name}\nSTEAMID: {sid}\nПрошлая команда: {oldTeam}\nНовая команда: {newTeam}",
+    "DISCORD_ChangeTeam" : "**Игроку сменили команду**\nИсполнитель: {ByName}\nНик игрока: {name}\nSTEAMID: {sid}\nПрошлая команда: {oldTeam}\nНовая команда: {newTeam}",
+
+
+    "VK_Action" : "**Действие** \nИсполнитель: {ByName}\nКоманда: {cmd}\nСтатус: {status}", // Отлавивают другие действия через CommandUsed
+    "VK_ActionWithTarget" : "**Действие** \nИсполнитель: {ByName}\nКоманда: {cmd}\nСтатус: {status}\nЦель: {targetName}\nЦель sid: {targetSid}", // Тоже, только если тут есть цель
+
+    "VK_OnAdminAdd" : "**Добавлен новый админ!** \nИсполнитель: {ByName} \nНик игрока: {name} \nSTEAMID: {sid}\nФлаги: {flags}\nИммунитет: {immunity}\nЗаканчивается: {end} \nИмя группы: {group_name}\nАйди группы: {group_id}\n Айди сервера: {server_id}",
+    "VK_OnAdminDel" : "**Админ удалён!** \nИсполнитель: {ByName} \nНик игрока: {name} \nSTEAMID: {sid}\nФлаги: {flags}\nИммунитет: {immunity}\nЗаканчивается: {end} \nИмя группы: {group_name}\nАйди группы: {group_id}\n Айди сервера: {server_id}",
+    "VK_OnAddBan" : "**Бан добавлен** \nИсполнитель: {ByName}\nНик игрока: {name}\nSTEAMID: {sid}\nIP: {ip}\nПричина: {reason}\nСрок: {duration}\nЗаканчивается: {end}\nТип бана: {banType}",
+    "VK_OnAddMute" : "**Мут добавлен** \nИсполнитель: {ByName}\nНик игрока: {name}\nSTEAMID: {sid}\nПричина: {reason}\nСрок: {duration}\nЗаканчивается: {end}",
+    "VK_OnAddGag" : "**Гаг добавлен** \nИсполнитель: {ByName}\nНик игрока: {name}\nSTEAMID: {sid}\nПричина: {reason}\nСрок: {duration}\nЗаканчивается: {end}",
+    "VK_OnUnBan" : "**Бан снят** \nИсполнитель: {ByName}\nНаказан админом: {admin}\nНик игрока: {name}\nSTEAMID: {sid}\nIP: {ip}\nПричина: {reason}\nСрок: {duration}\nЗаканчивается: {end}\nТип бана: {banType}",
+    "VK_OnUnMute" : "**Мут снят** \nИсполнитель: {ByName}\nНаказан админом: {admin}\nНик игрока: {name}\nSTEAMID: {sid}\nПричина: {reason}\nСрок: {duration}\nЗаканчивается: {end}",
+    "VK_OnUnGag" : "**Гаг снят** \nИсполнитель: {ByName}\nНаказан админом: {admin}\nНик игрока: {name}\nSTEAMID: {sid}\nПричина: {reason}\nСрок: {duration}\nЗаканчивается: {end}",
+    "VK_OnSlay" : "**Игрок убит** \nИсполнитель: {ByName}\nНик игрока: {name}\nSTEAMID: {sid}",
+    "VK_OnKick" : "**Игрок кикнут** \nИсполнитель: {ByName}\nНик игрока: {name}\nSTEAMID: {sid}\nПричина: {reason}",
+    "VK_SwitchTeam" : "**Игрок перемещён**\nИсполнитель: {ByName}\nНик игрока: {name}\nSTEAMID: {sid}\nПрошлая команда: {oldTeam}\nНовая команда: {newTeam}",
+    "VK_ChangeTeam" : "**Игроку сменили команду**\nИсполнитель: {ByName}\nНик игрока: {name}\nSTEAMID: {sid}\nПрошлая команда: {oldTeam}\nНовая команда: {newTeam}"
+}

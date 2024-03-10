@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CounterStrikeSharp.Api" Version="1.0.193" />
+    <PackageReference Include="Discord.WebHook" Version="1.0.9" />
+    <PackageReference Include="VkNet" Version="1.78.0-alpha-99" />
+    <ProjectReference Include="../../Iks_Admin_Api/Iks_Admin_Api.csproj" />
+
+  </ItemGroup>
+
+</Project>
